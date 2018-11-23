@@ -1,5 +1,9 @@
 # ML_theory
 
+## INDEX
+[What is hypothesis?]()
+
+## What is hypothesis?
 In a machine learning problem where the input is denoted by 𝐱 and the output is 𝑦
 
 In order to do machine learning, there should exist a relationship (pattern) between the input and output values. Lets say that this the function
