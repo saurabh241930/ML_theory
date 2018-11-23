@@ -42,6 +42,9 @@ It turns out we can adjust the equation a little to make the calculation down th
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*VanG05Ab6yknqJ2bRGFzrQ.png"/>
 
+Let’s apply this const function to the follow data:
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*d0rp7impHwVZn9oJlnEb2w.png"/>
 
 
 
